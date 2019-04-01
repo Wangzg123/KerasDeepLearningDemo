@@ -11,11 +11,11 @@
 - 3.Dropout
 
 更多的介绍请查阅[二、深度学习的参数调优及优化](https://blog.csdn.net/qq8993174/article/details/88646659)
-## cats_and_dogs_small.ipynb
+## 3、cats_and_dogs_small.ipynb
 这篇代码通过keras从头实现了一个卷积神经网络来识别猫狗分类问题，并且通过matplot绘制成函数图形来观察acc 和 loss
 
 更多的介绍请查阅[三、卷积神经网络](https://blog.csdn.net/qq8993174/article/details/88942309)
-## vgg_16_add_dense.ipynb
+## 4、vgg_16_add_dense.ipynb
 这篇代码通过keras使用vgg16的预训练模型来识别猫狗分类问题，并且通过matplot绘制成函数图形来观察acc 和 loss
 
 更多的介绍请查阅[三、卷积神经网络](https://blog.csdn.net/qq8993174/article/details/88942309)
