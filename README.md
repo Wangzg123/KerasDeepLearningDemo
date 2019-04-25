@@ -19,4 +19,7 @@
 这篇代码通过keras使用vgg16的预训练模型来识别猫狗分类问题，并且通过matplot绘制成函数图形来观察acc 和 loss
 
 更多的介绍请查阅[三、卷积神经网络](https://blog.csdn.net/qq8993174/article/details/88942309)
+## 5、flower_vgg16.ipynb
+这篇代码通过keras使用vgg16的预训练模型来识别《TensorFlow 实战google框架》6.5.2花朵识别问题
+
 ## 更新中
